@@ -1,2 +1,3 @@
 # morrowcart
-Simple operations platform for growing online retailers.
+Simple operations platform for growing
+online retailers.
